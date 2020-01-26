@@ -8,8 +8,9 @@ This particular app uses the Popular movie with the details of the movie on clic
 ## Preview
 ![](https://media.giphy.com/media/h2YXQskxMQXPYFQIh5/giphy.gif)
 
+### This App build.gradle Dependency is maintained by using Kotlin and buildSrc for AutoComplete feature
 
-This App uses following TechStack
+This App uses following TechStack : 
 
 - [x] [Kotlin](https://kotlinlang.org/docs/reference/)
 - [x] [MVVM architecture Pattern](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93viewmodel)
