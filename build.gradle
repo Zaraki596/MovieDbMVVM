@@ -4,11 +4,11 @@ buildscript {
     repositories {
         google()
         jcenter()
-        
+
     }
     dependencies {
-        classpath Deps.android_gradle
-        classpath Deps.kotlin_gradle
+        classpath Deps.ANDROID_GRADLE_PLUGIN
+        classpath Deps.KOTLIN_GRADLE_PLUGIN
         // NOTE: Do not place your application dependencies here; they belong
         // in the individual module build.gradle files
     }
@@ -18,10 +18,11 @@ allprojects {
     repositories {
         google()
         jcenter()
-        
+        mavenCentral()
     }
 }
 
 task clean(type: Delete) {
     delete rootProject.buildDir
 }
+
