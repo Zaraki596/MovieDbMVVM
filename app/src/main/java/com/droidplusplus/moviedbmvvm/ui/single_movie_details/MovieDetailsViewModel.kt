@@ -5,7 +5,7 @@ import androidx.lifecycle.MutableLiveData
 import androidx.lifecycle.ViewModel
 import androidx.lifecycle.viewModelScope
 import com.droidplusplus.moviedbmvvm.data.model.MovieDetails
-import com.droidplusplus.moviedbmvvm.data.repository.MovieRepositoryImpl
+import com.droidplusplus.moviedbmvvm.repository.MovieRepositoryImpl
 import kotlinx.coroutines.launch
 
 class MovieDetailsViewModel(private val movieRepository: MovieRepositoryImpl) : ViewModel() {

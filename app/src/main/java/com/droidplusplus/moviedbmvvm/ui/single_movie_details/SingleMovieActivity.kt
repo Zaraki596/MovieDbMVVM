@@ -8,8 +8,8 @@ import androidx.lifecycle.ViewModelProvider
 import com.droidplusplus.moviedbmvvm.R
 import com.droidplusplus.moviedbmvvm.data.model.MovieDetails
 import com.droidplusplus.moviedbmvvm.data.network.RetrofitClient
-import com.droidplusplus.moviedbmvvm.data.repository.MovieRepositoryImpl
 import com.droidplusplus.moviedbmvvm.databinding.ActivitySingleMovieBinding
+import com.droidplusplus.moviedbmvvm.repository.MovieRepositoryImpl
 
 class SingleMovieActivity : AppCompatActivity() {
 

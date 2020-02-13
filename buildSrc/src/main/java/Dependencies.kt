@@ -37,7 +37,7 @@ object Versions {
     //COROUTINES
     const val COROUTINES = "1.3.3"
     //IMAGE LOADING
-    const val COIL = "0.9.2"
+    const val COIL = "0.9.5"
 }
 
 object Deps {

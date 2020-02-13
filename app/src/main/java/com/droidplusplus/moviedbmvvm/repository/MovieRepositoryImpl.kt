@@ -1,4 +1,4 @@
-package com.droidplusplus.moviedbmvvm.data.repository
+package com.droidplusplus.moviedbmvvm.repository
 
 import androidx.lifecycle.LiveData
 import androidx.lifecycle.MutableLiveData

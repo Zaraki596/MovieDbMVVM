@@ -7,7 +7,7 @@ import androidx.lifecycle.Observer
 import androidx.lifecycle.ViewModelProvider
 import com.droidplusplus.moviedbmvvm.R
 import com.droidplusplus.moviedbmvvm.data.network.RetrofitClient
-import com.droidplusplus.moviedbmvvm.data.repository.MovieRepositoryImpl
+import com.droidplusplus.moviedbmvvm.repository.MovieRepositoryImpl
 import com.droidplusplus.moviedbmvvm.ui.single_movie_details.SingleMovieActivity
 import kotlinx.android.synthetic.main.activity_dashboard.*
 

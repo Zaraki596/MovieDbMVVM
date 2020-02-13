@@ -61,7 +61,6 @@ dependencies {
 
     //Arch Components
     //LiveData and Viewmodel
-    implementation Deps.LIFECYCLE_EXTENSIONS
     implementation Deps.VIEWMODEL_KTX
     implementation Deps.LIVEDATA_KTX
     //Room

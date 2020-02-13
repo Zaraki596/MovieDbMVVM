@@ -1,0 +1,1 @@
+C:\Users\hp\Desktop\Project\MovieDbMVVM\buildSrc\build\classes\kotlin\main\Deps.class;C:\Users\hp\Desktop\Project\MovieDbMVVM\buildSrc\build\classes\kotlin\main\Versions.class

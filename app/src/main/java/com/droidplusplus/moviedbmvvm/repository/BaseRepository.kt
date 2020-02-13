@@ -1,4 +1,4 @@
-package com.droidplusplus.moviedbmvvm.data.repository
+package com.droidplusplus.moviedbmvvm.repository
 
 import android.util.Log
 import retrofit2.Response

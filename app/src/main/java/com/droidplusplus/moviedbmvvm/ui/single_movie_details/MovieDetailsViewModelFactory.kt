@@ -2,7 +2,7 @@ package com.droidplusplus.moviedbmvvm.ui.single_movie_details
 
 import androidx.lifecycle.ViewModel
 import androidx.lifecycle.ViewModelProvider
-import com.droidplusplus.moviedbmvvm.data.repository.MovieRepositoryImpl
+import com.droidplusplus.moviedbmvvm.repository.MovieRepositoryImpl
 
 class MovieDetailsViewModelFactory(private val movieRepository: MovieRepositoryImpl) : ViewModelProvider.NewInstanceFactory() {
 
